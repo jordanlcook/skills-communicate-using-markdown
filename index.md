@@ -1,3 +1,3 @@
 # Learning to use Markdown
 
-This is the body of my text
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
